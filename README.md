@@ -100,10 +100,3 @@ A premium, AI-powered customer support platform designed specifically for web ho
 
 This project is licensed under the MIT License.
 
-## 👥 Contributors
-
-- **Student Name** (Project Developer)
-
----
-
-*Wowed by the project? Give it a ⭐ on GitHub!*
